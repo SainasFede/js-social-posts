@@ -93,7 +93,7 @@ function newPosts(){
         </div>
         <div class="post__text">Placeat libero ipsa nobis ipsum quibusdam quas harum ut. Distinctio minima iusto. Ad ad maiores et sint voluptate recusandae architecto. Et nihil ullam aut alias.</div>
         <div class="post__image">
-            <img src="${posts.media}" alt="${post.image}">
+            <img src="${post.media}" alt="${post.image}">
         </div>
         <div class="post__footer">
             <div class="likes js-likes">
